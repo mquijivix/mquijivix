@@ -1,6 +1,6 @@
 <h1>Hi, I'm Mario Quijivix! A Cybersecurity Professional </h1>
 
-<h2>👨‍💻 Cybersecurity Projects:</h2>
+<h2>👨‍💻 My Project:</h2>
 
 - <b>Azure / Cloud Projects</b>
   - [Creating a Live SOC / Honeynet in Azure](https://github.com/mquijivix/Azure-SOC--Honeynet)

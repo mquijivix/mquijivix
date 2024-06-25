@@ -1,11 +1,21 @@
-# Welcome to My GitHub Portfolio
+# Welcome to My GitHub Portfolio, Mario Quijivix
 
 ## About Me
 Hi, I'm Mario Quijivix, a Cybersecurity Support Analyst Intern at Log(N) Pacific. I am passionate about protecting digital assets and constantly learning about new threats and defense mechanisms. 
 ##  Skills and Technologies
 - **Languages:** KQL, SQL, Python, 
 - **Tools:** Microsoft Azure, Microsoft Sentinel, Microsoft Defender for Endpoint 
-- **Certifications:** CompTIA Security+, Google Cybersecurity, Leveled Cybersecurity Master Class 
+- **Certifications:** CompTIA Security+, Google Cybersecurity, Leveled Cybersecurity Master Class
+
+## Experience
+### Cybersecurity Support Analyst Intern at Log(N) Pacific
+**Duration:** 2024 - Present  
+Secure Cloud Configurations: Implemented secure cloud configurations using Azure Private Link, Network Security Groups, Microsoft Defender for Cloud, and Azure Regulatory Compliance for NIST 800-53, PCI DSS, and HIPPA/HITRUST, achieving a 97.26% reduction in security incidents.
+
+Troubleshooting and Support: Provided troubleshooting and support for Microsoft Azure services, including Microsoft Sentinel (SIEM), virtual machines, Azure Monitor, and Azure Active Directory, resolving an average of 10 issues per week.
+
+KQL Query Development: Developed KQL queries to support Log Analytics workspace and Microsoft Sentinel, ensuring compliance with regulatory standards through effective security controls.
+
 
 
 
@@ -18,8 +28,11 @@ Hi, I'm Mario Quijivix, a Cybersecurity Support Analyst Intern at Log(N) Pacific
 
 
 <h2> Connect with me:</h2>
-- 🌐 [LinkedIn](www.linkedin.com/in/marioquijivix)
-- 📧 [Email](mailto:mquijivix3@gmail.com)
+🌐 [LinkedIn](www.linkedin.com/in/marioquijivix)
+
+📧 [Email](mailto:mquijivix3@gmail.com)
+
+Thank you for visiting my portfolio. Feel free to connect with me on LinkedIn or reach out via email.
 
 
 

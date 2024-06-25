@@ -2,6 +2,11 @@
 
 ## About Me
 Hi, I'm Mario Quijivix, a Cybersecurity Support Analyst Intern at Log(N) Pacific. I am passionate about protecting digital assets and constantly learning about new threats and defense mechanisms. 
+##  Skills and Technologies
+- **Languages:** KQL, SQL, Python, 
+- **Tools:** Microsoft Azure, Microsoft Sentinel, Microsoft Defender for Endpoint 
+- **Certifications:** CompTIA Security+, Google Cybersecurity, Leveled Cybersecurity Master Class 
+
 
 
 <h2> My Project:</h2>

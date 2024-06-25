@@ -1,4 +1,8 @@
-<h1>Hi, I'm Mario Quijivix! A Cybersecurity Professional </h1>
+# Welcome to My GitHub Portfolio
+
+## 👨‍💻 About Me
+Hi, I'm Mario Quijivix, a Cybersecurity Support Analyst Intern at Log(N) Pacific. I am passionate about protecting digital assets and constantly learning about new threats and defense mechanisms. 
+
 
 <h2>👨‍💻 My Project:</h2>
 
@@ -9,7 +13,9 @@
 
 
 <h2> 🤳 Connect with me:</h2>
-[linkedin]: www.linkedin.com/in/marioquijivix
+- 🌐 [LinkedIn](www.linkedin.com/in/marioquijivix)
+- 📧 [Email](mailto:mquijivix3@gmail.com)
+
 
 
 <!--

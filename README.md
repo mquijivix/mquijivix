@@ -1,10 +1,10 @@
 # Welcome to My GitHub Portfolio
 
-## 👨‍💻 About Me
+## About Me
 Hi, I'm Mario Quijivix, a Cybersecurity Support Analyst Intern at Log(N) Pacific. I am passionate about protecting digital assets and constantly learning about new threats and defense mechanisms. 
 
 
-<h2>👨‍💻 My Project:</h2>
+<h2> My Project:</h2>
 
 - <b>Azure / Cloud Projects</b>
   - [Creating a Live SOC / Honeynet in Azure](https://github.com/mquijivix/Azure-SOC--Honeynet)
@@ -12,7 +12,7 @@ Hi, I'm Mario Quijivix, a Cybersecurity Support Analyst Intern at Log(N) Pacific
 
 
 
-<h2> 🤳 Connect with me:</h2>
+<h2> Connect with me:</h2>
 - 🌐 [LinkedIn](www.linkedin.com/in/marioquijivix)
 - 📧 [Email](mailto:mquijivix3@gmail.com)
 

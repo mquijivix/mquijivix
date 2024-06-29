@@ -23,6 +23,9 @@ KQL Query Development: Developed KQL queries to support Log Analytics workspace 
 
 - <b>Azure / Cloud Projects</b>
   - [Creating a Live SOC / Honeynet in Azure](https://github.com/mquijivix/Azure-SOC--Honeynet)
+- <b>Elastic SIEM Tool</b>
+  - [Creating a SIEM in Elastic](https://github.com/mquijivix/SIEM-)
+ 
 
 
 

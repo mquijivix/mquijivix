@@ -19,13 +19,14 @@ KQL Query Development: Developed KQL queries to support Log Analytics workspace 
 
 
 
-<h2> My Project:</h2>
+<h2> My Projects:</h2>
 
 - <b>Azure / Cloud Projects</b>
   - [Creating a Live SOC / Honeynet in Azure](https://github.com/mquijivix/Azure-SOC--Honeynet)
 - <b>Elastic SIEM Tool</b>
   - [Creating a SIEM in Elastic](https://github.com/mquijivix/SIEM-)
- 
+- <b>Active Directory Splunk</b>
+  - [Active Directory/ Splunk ](https://github.com/mquijivix/Active-Directory-and-Splunk-Project-/tree/main-)
 
 
 

@@ -26,7 +26,7 @@ KQL Query Development: Developed KQL queries to support Log Analytics workspace 
 - <b>Elastic SIEM Tool</b>
   - [Creating a SIEM in Elastic](https://github.com/mquijivix/SIEM-)
 - <b>Active Directory Splunk</b>
-  - [Active Directory/ Splunk ](https://github.com/mquijivix/Active-Directory-and-Splunk-Project-/tree/main-)
+  - [Active Directory/ Splunk ](https://github.com/mquijivix/Active-Directory-and-Splunk-Project-/tree/main)
 
 
 
